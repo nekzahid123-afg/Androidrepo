@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LocalLanguageEducationApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Main colors -->
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="colorPrimaryDark">@color/primary_blue</item>
+        <item name="colorAccent">@color/accent_blue</item>
+
+        <!-- This removes the blue highlight color globally -->
+        <item name="colorControlActivated">#BDBDBD</item>
+        <item name="colorControlNormal">#BDBDBD</item>
+    </style>
+
+    <style name="Theme.LocalLanguageEducationApp" parent="Base.Theme.LocalLanguageEducationApp" />
+</resources>

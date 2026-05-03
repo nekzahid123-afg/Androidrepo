@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_blue">#007BFF</color> <!-- LEARYN Blue -->
+    <color name="header_light_blue">#66A3FF</color>
+    <color name="light_blue">#03A9F4</color> <!-- Added light_blue -->
+    <color name="light_bg">#F8F9FA</color>
+    <color name="accent_blue">#0056b3</color>
+    <color name="border_color">#EEEEEE</color>
+
+    <!-- Skill Icon Colors -->
+    <color name="purple_icon">#9C27B0</color>
+    <color name="orange_icon">#FF9800</color>
+    <color name="yellow_icon">#FFEB3B</color>
+    <color name="red_icon">#F44336</color>
+</resources>
